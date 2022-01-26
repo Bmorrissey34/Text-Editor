@@ -22,7 +22,9 @@ Click install button on app
 
 Live Link : https://boiling-river-96631.herokuapp.com/
 
+![TextEdit](https://user-images.githubusercontent.com/88950762/151244925-d7d06599-603f-4825-9b78-19c476a82120.PNG)
 
+![JateLogo](https://user-images.githubusercontent.com/88950762/151244939-001ad3ed-9355-498e-addd-4718add6b6e6.PNG)
 
 
 ## My Info
