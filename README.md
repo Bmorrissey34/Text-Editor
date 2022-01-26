@@ -12,7 +12,7 @@ Created a text editor app that is deployed live and can be downloaded to your de
 - [My Info](https://github.com/Bmorrissey34/README-Maker/blob/main/README.md#my-info)
 - [Tests](https://github.com/Bmorrissey34/README-Maker/blob/main/README.md#Tests)
 - [Credits](https://github.com/Bmorrissey34/README-Maker/blob/main/README.md#Credits)
-- 
+
 
 
 ## Installation
@@ -20,14 +20,16 @@ Click install button on app
 
 ## Usage
 
+Live Link : https://boiling-river-96631.herokuapp.com/
+
+
+
 
 ## My Info
 
 GitHub Username: https://github.com/Bmorrissey34
 
 Github Repo : https://github.com/Bmorrissey34/Text-Editor
-
-## Tests
       
 
 ## Credits
